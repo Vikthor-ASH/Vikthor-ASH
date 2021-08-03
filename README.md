@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Victor Varcuti
+- 👋 Hi, I’m @Victor Varcuti I live in Romania, Deva, Hunedoara
 - 
 I am a fast-learner, also adetermined and devoted person. I am fascinated in tinkering, acquiring knowledge in new fields, by helping me improve my skills and abilities thriving to bring out the best in me.
 
@@ -18,9 +18,11 @@ Quotes that describe well my life:
 The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela
 
 “Experience life in all possible ways: good-bad, bitter-sweet, dark-light, summer-winter. Experience all the dualities. Don't be afraid of experience, because the more experience you have, the more mature you become.” -Osho
-- 🌱 I’m currently learning CAD design and C++, C # , Python, Java and web design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning CAD design and C++, C # , Python, Java and web design, video, photo and sound editing
+- 
+- 💞️ I’m looking to collaborate on different projects to learn new things, become better at what I do
+- 📫 How to reach me https://www.linkedin.com/in/varcuti-victor-a5b3b975/
+- either phone number :+40724245534
 
 <!---
 Vikthor-ASH/Vikthor-ASH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
